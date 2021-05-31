@@ -1,3 +1,2 @@
 import turtle
 
-turtle.TurtleScreen
