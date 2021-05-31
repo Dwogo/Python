@@ -1,6 +1,6 @@
 import datetime
 
-# Time that gets displaye
+# Time that gets displayed
 x = datetime.datetime.now()
 print("The time is:")
 print(x.strftime("%a %d %b %I %M %p"))
