@@ -25,5 +25,3 @@ elif (Dimension == "2D" | Dimension == "2d"):
         y = int(input("What is the length"))
         trongle2 = (x*y)/2
         print(trongle2)
-    elif ()
-
