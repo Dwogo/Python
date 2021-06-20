@@ -10,3 +10,5 @@ if (guess == "respect" or guess == "excellence" or guess == "friendship"):
     print("correct")
 else:
     print("incorrect")
+
+
