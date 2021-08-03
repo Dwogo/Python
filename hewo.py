@@ -9,7 +9,9 @@ print(x.strftime("%a %d %b %I %M %p"))
 # Name that the user chooses gets judged
 name = input("Please enter your name: ")
 
-if name == "Geoff":
+name = name.lower()
+
+if name == "geoff":
     print("G'day Geoff")
 else:
     print("Wait a minute you're not Geoff")
